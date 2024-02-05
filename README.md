@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [M4RKET](https://m4rket.ovh/)
 
-- 🌱 I’m currently learning **Angular, SSL, Apache, SSH, WebGL, Blender, Prometheus/Grafana, Node,**
+- 🌱 I’m currently learning **Angular, Blender, Apache, Ionic, NodeJS, TypeScript, Google Analytics, Dialogflow**
 
 - 💬 Ask me about **Secure a server, Front and Back Development**
 
