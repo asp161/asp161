@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A passionate frontend/backend developer from Spain</h3>
 
-- 🔭 I’m currently working on [M4RKET](https://m4rket.ovh/)
+- 🔭 I’m currently working on NTT DATA
 
 - 🌱 I’m currently learning **Angular, Blender, Apache, Ionic, NodeJS, TypeScript, Google Analytics, Dialogflow**
 
