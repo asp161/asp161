@@ -1,18 +1,36 @@
-<h1 align="center">Hi 👋, I'm Álvaro</h1>
-<h3 align="center">A passionate frontend/backend developer from Spain</h3>
-
-- 🔭 I’m currently working on ??
-
-- 🌱 I’m currently learning **Angular, Blender, Apache, Ionic, NodeJS, TypeScript, Google Analytics, Dialogflow**
-
-- 💬 Ask me about **Secure a server, Front and Back Development**
-
-- 📫 How to reach me **alvarosnchzpnd@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%C3%A1lvaro-s%C3%A1nchez-pinedo-25a9b7291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="álvaro sánchez pinedo" height="30" width="40" /></a>
+<p align="center">
+  <img src="header.svg" width="100%" alt="Hi there, I'm Álvaro Sánchez. Frontend Developer at Volkswagen Digital:Hub, based in Alicante, Spain.">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://asp161.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4C8612?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-s%C3%A1nchez-pinedo-25a9b7291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:alvarosnchzpnd@gmail.com"><img src="https://img.shields.io/badge/Email-6E7681?style=for-the-badge" alt="Email"></a>
+  <a href="https://asp161.github.io/portfolio/assets/cv/AlvaroSanchezPinedo_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-6E7681?style=for-the-badge" alt="CV in PDF"></a>
+</p>
+
+## About me
+
+- I build web applications with **Angular** and **TypeScript** at **Volkswagen Digital:Hub**. Before that I was an Angular developer intern at **NTT DATA**.
+- I studied **Multimedia Engineering** at the University of Alicante. My final degree project, **MoodFlow**, was graded **10/10**.
+- I enjoy building mobile apps with **Ionic** and **Capacitor**.
+- I worked a lot on cybersecurity during my degree, so I care about interfaces that are secure, accessible and pleasant to use.
+
+## Tech stack
+
+<img src="stack.svg" width="100%" alt="Day to day: Angular, TypeScript, JavaScript, HTML, CSS, Sass, Ionic, Capacitor and Git. Also worked with: Node.js, Express, Socket.IO, MongoDB, MySQL, PHP, Java, C/C++ and Three.js.">
+
+## Featured projects
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7470810927668510720/"><img src="project-moodflow.svg" width="410" alt="MoodFlow: mobile app to log and track emotional state, with charts and personalized suggestions. Final degree project, graded 10/10. Built with Ionic, Angular and Capacitor."></a>
+  <a href="https://github.com/asp161/data-table-crud-app"><img src="project-crud.svg" width="410" alt="Data Table CRUD App: responsive product manager with search, filters, pagination and dialogs. Built with Angular 19, Angular Material and SCSS."></a>
+</p>
+<p align="center">
+  <a href="https://github.com/asp161/Pong_JS_Node"><img src="project-pong.svg" width="410" alt="Multiplayer Pong: 2D Pong for two players in real time over WebSockets. Built with JavaScript, Node.js and Socket.IO."></a>
+  <a href="https://github.com/asp161/Secure_Files"><img src="project-secure.svg" width="410" alt="Secure Files: tool that encrypts multimedia files with different keys. Built with Java."></a>
+</p>
+
+## Get in touch
+
+The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-s%C3%A1nchez-pinedo-25a9b7291/) or [email](mailto:alvarosnchzpnd@gmail.com). You can also see more of my work in my [portfolio](https://asp161.github.io/portfolio/).
